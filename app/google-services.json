@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420850193627",
+    "project_id": "mohamed-8084c",
+    "storage_bucket": "mohamed-8084c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420850193627:android:a6e49ced3c9cd2361b28fe",
+        "android_client_info": {
+          "package_name": "com.devahmed.techx.onlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420850193627-t4sr4ceu515af783diosotisncv2b5l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXVWLeQz1AlWdT1N2JQ3A52yfxW2OmBAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420850193627-t4sr4ceu515af783diosotisncv2b5l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

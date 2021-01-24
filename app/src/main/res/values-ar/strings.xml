@@ -1,0 +1,113 @@
+<resources>
+    <string name="admin">false</string>
+    <string name="app_name"> \t Fox Mart\t</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">فوكس مارت</string>
+    <string name="nav_header_subtitle">Alwa7a@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="Products">المنتجات</string>
+
+    <string name="action_cart">سلة المشتريات</string>
+    <string name="Store">المتجر</string>
+    <string name="Search">بحث</string>
+    <string name="Orders">طلباتي</string>
+    <string name="cart">سلة المشتريات</string>
+    <string name="account">حسابي</string>
+    <string name="settings">الاعدادات</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="admin_dashboard">ادارة التطبيق</string>
+    <string-array name="categories">
+        <item>Beauty</item>
+        <item>Wellness</item>
+        <item>Diabetes</item>
+        <item>Personal Care</item>
+        <item>Mother and Baby</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">الاشعارات</string>
+
+<!--                            -->
+    <string name="enter_the_code">قم بادخال الرمز</string>
+    <string name="we_sent_code">قمنا بإرسال رمز التأكيد الى هاتفك</string>
+    <string name="didnt_recieve_code">تلق اي رسالة تأكيد</string>
+    <string name="code">ادخل الرمز</string>
+    <string name="resend_code">إعادة الارسال بعد</string>
+    <string name="welcome_to">مرحبا بك في</string>
+    <string name="signup_to_continue">قم بتسجيل الدخول للمتابعة</string>
+    <string name="enter_your_phone">أدخل رقم هاتفك</string>
+    <string name="we_nee_your_location">نحتاج الى معرفة موقعك قبل المتابعة</string>
+    <string name="get_location">الحصول على الموقع</string>
+    <string name="total">الاجمالي</string>
+    <string name="empty_cart">سلة مشترياتك فارغة</string>
+    <string name="checkout">شراء</string>
+    <string name="delivery_cost">خدمة التوصيل</string>
+    <string name="go_to_shopping">متابعة التسوق</string>
+    <string name="_120_n_points">نقاط</string>
+    <string name="earn_points_and_get_discounts">قم بكسب النقاط واحصل على خصومات رائعة</string>
+    <string name="your_info">معلوماتك</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="your_name">الاسم</string>
+    <string name="name">اسمك</string>
+    <string name="your_address">عنوانك</string>
+    <string name="street_number">رقم الشارع</string>
+    <string name="street_name">اسم الشارع او رقمه</string>
+    <string name="building_number">رقم العمارة</string>
+    <string name="nearest_landmark">علامة مميزة في المكان</string>
+    <string name="unique_sign">علامة مميزة في المكان</string>
+    <string name="help_us_find_you_with_gps">ساعدنا في الوصول اليك عن طريق GPS</string>
+    <string name="use_gps_location">الحصول على الموقع</string>
+    <string name="apply">تطبيق</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="confirm">طلب</string>
+    <string name="language">اللغة</string>
+    <string name="thank_you">شكرا جزيلا لك</string>
+    <string name="your_order_is_in_progress">طلبك الان</string>
+    <string name="order_in_progress">الطلب </string>
+    <string name="your_order">طلبك</string>
+    <string name="items_count">عدد المنتجات</string>
+    <string name="items_price">سعر المنجات</string>
+    <string name="total_price">السعر الاجمالي</string>
+    <string name="area">المنطقة</string>
+    <string name="inProgress">يتم تجهيزه</string>
+    <string name="delivering">يتم توصيله</string>
+    <string name="done" />
+    <string name="users">المستخدمين</string>
+    <string name="branches">الفروع</string>
+    <string name="bills">الفواتير</string>
+    <string name="notifications">الاشعارات</string>
+    <string name="min_charge">اقل سعر للطلب</string>
+    <string name="categories">التصنيفات</string>
+    <string name="points">نقاط</string>
+    <string name="flatNo">رقم الشقة</string>
+    <string name="items_finished">لقد نفدت الكمية</string>
+    <string name="floor">رقم الدور</string>
+    <string name="time_alert">يجب ان يكون الوقت المحدد بع ساعتين من الان</string>
+    <string name="by_pressing_submit_you_agree_to">بالضغط على هذا الزر فإنك توافق على</string>
+    <string name="our">.</string>
+    <string name="terms_and_conditions">الشروط والسياسات</string>
+    <string name="how_did_you_find_us">كيف سمعت عنا</string>
+    <string name="not_available_product">المنتج غير متاح حاليا</string>
+    <string name="add">اضافة</string>
+    <string name="sold_out">نفدت الكمية</string>
+    <string name="edit_order">تعديل الطلب</string>
+    <string name="cancel_order">إلغاء الطلب</string>
+    <string name="order_at">وقت توصيل الطلب</string>
+    <string name="tnow">التوصيل حالا</string>
+    <string name="tlater">في وقت لاحق</string>
+    <string name="exit">خروج</string>
+    <string name="rate">تقييم</string>
+    <string name="share_app">مشاركة التطبيق</string>
+    <string name="ONOFF">ON/OFF</string>
+    <string name="sorry_closed_now"> المحل مغلق الان .. طلبك سيتم توصيله غدا الساعة </string>
+    <string name="Added">تمت الاضافة</string>
+    <string name="UBlocked">انت محظور من استخدام هذا التطبيق</string>
+    <string name="sorry_min_charge_is">\"عذرا . أقل قيمة للشراء هي \"</string>
+    <string name="add_to_cart">اضف الى العربة</string>
+    <string name="time_alert2">لا يمكنك الطلب في هذه الساعة , حاول لاحقا</string>
+</resources>

@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39b854b8-96b6-4bbe-a671-69cfd7e84a62" name="Default Changelist" comment="e commerce application">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_common_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_fragment_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_ui_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_smarteist_autoimageslider_1_3_2_appcompat_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_api_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_backend_cct_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_runtime_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_places_placereport_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_2_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_19_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_19_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_19_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_19_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_datatransport_17_0_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_encoders_json_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_20_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_20_1_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_19_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__de_hdodenhof_circleimageview_3_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/OnlinePharmacy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/OnlinePharmacy.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoxMartAdminV10__.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPV10_Target29.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/debug/app-debug.aab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/FocMartGPV10.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/FoxMartGooglePlayV10__.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/FoxMartV10_.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/GPV10_Target29.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/GooglePlayV1.0.0.aab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/GooglePlayV1.1.1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/GooglePlayVersionCode3-V1.1.3.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/GooglePlayVersionCode4_V1.1.4.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/TechXdEMOV2.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/googlePlay_V1.1.7.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/devahmed/techx/onlineshop/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Common/MVC/BaseObservableMvcView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Common/MVC/BaseViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Common/MVC/MvcView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Common/MVC/ObservableViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Common/dependencyInjection/BaseFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Common/dependencyInjection/CompositionRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Common/dependencyInjection/ControllerCompositionRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Common/dependencyInjection/MvcViewFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Main2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Models/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Models/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Models/DeliverCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Models/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Models/ProductSubCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Models/SubCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AddProducts/AddProductActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AddProducts/AddProductMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AddProducts/AddProductUseCase/AddProductUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AddProducts/AddProductUseCase/GetImageUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AddProducts/AddProductViewMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/AdminFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BillsControl/BillsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BillsControl/BillsItemList/BillsItemMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BillsControl/BillsItemList/BillsItemMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BillsControl/BillsItemList/OrdersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BillsControl/BillsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BillsControl/BillsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BillsControl/UseCase/FetchStringesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BillsControl/UseCase/TakeScreenShotUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BranchesControl/BranchesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BranchesControl/BranchesControlFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BranchesControl/BranchesMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BranchesControl/BranchesMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BranchesControl/UseCases/AddBranchUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BranchesControl/UseCases/FetchBranchesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/BranchesControl/UseCases/GetLocationUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/DeliverCost/DeliverCostAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/DeliverCost/DeliverCostFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/DeliverCost/DeliveryCostMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/DeliverCost/DeliveryCostMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/DeliverCost/UseCases/FetchDeliveryCostesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/HowDidYouFindUsControl/HowAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/HowDidYouFindUsControl/HowFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/HowDidYouFindUsControl/HowMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/HowDidYouFindUsControl/HowMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/HowDidYouFindUsControl/UseCases/FetchStringesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/MinChargeControl/MinChargeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/MinChargeControl/MinChargeMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/MinChargeControl/MinChargeMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/MinChargeControl/UseCase/FetchMinChargesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/NotificationsControl/NotificationsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/NotificationsControl/NotificationsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/NotificationsControl/PushNotificationsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/NotificationsControl/UseCase/NotificationSenderUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/ON_OFF/OnOffAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/ON_OFF/OnOffFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/ON_OFF/OnOffMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/ON_OFF/OnOffMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/OrdersControl/OrderControlItemList/OrderListItemViewMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/OrdersControl/OrderControlItemList/OrderListItemViewMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/OrdersControl/OrderControlItemList/OrdersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/OrdersControl/OrdersControlFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/OrdersControl/OrdersControlMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/OrdersControl/OrdersControlMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/UsersControl/UserControlsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/UsersControl/UsersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/UsersControl/UsersControlFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/AdminDashboard/UsersControl/UsersControlMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Cart/CartFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Cart/CartItem/CartItemMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Cart/CartItem/CartItemsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Cart/CartItem/CartListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Cart/CartMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Cart/CartMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Cart/UseCase/FetchCartDataUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ContactUs/ContactUsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ContactUs/ContactUsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ContactUs/ContactUsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/HomeMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/HomeMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/OffersSliderList/OffersListItemView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/OffersSliderList/OffersListItemViewMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/OffersSliderList/ProductOffersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/UseCases/AddCategoryUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/UseCases/FetchCategoryUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/categoryList/CategoryAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Home/categoryList/RecyclerTouchListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/HowDidYouHearAboutUs/HowDidYouHearAboutUsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/LocationAtFirstTime/LocationAtFirstTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/LoginRegister/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/LoginRegister/LoginActivityMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/LoginRegister/LoginActivityMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/LoginRegister/LoginRegisterUseCase/LoginRegisterUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/LoginRegister/SignUpFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/LoginRegister/ViewPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Orders/MyOrdersList/OrderListMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Orders/MyOrdersList/OrdersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Orders/MyOrdersList/OrdersListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Orders/MyOrdersList/OrdersListMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Orders/MyOrdersList/UseCases/FetchOrdersUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Orders/OrdersDetails/OrderDetailsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Orders/OrdersDetails/OrderDetailsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Orders/OrdersDetails/OrderDetailsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Orders/OrdersDetails/OrderedProducstAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ProductsShow/ProducstShowFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ProductsShow/ProductsList/ShowProductListItemView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ProductsShow/ProductsList/ShowProductsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ProductsShow/ProductsList/ShowProductsListItemViewMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ProductsShow/ProductsShowMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ProductsShow/ProductsShowMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/ProductsShow/UseCases/FetchProductsUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Search/SearchFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Search/SearchMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Search/SearchMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Settings/SettingsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Settings/SettingsMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Settings/SettingsMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/Splash/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/SubCategories/SubCategoriesFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/SubCategories/SubCategoriesMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/SubCategories/SubCategoryMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/SubCategories/SubcategoriesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/SubCategories/UseCase/AddSubCategoryUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/SubCategories/UseCase/FetchSubCategories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/UserAccount/AccountFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/UserAccount/AccountMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/UserAccount/AccountMvcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/UserAccount/UseCases/AddOrdersUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/UserAccount/UseCases/AddUserUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/UserAccount/UseCases/FetchUserInfoFromFirebaseUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Screens/UserAccount/UseCases/UserInfoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Utils/BillCanvasView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Utils/CartManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Utils/GenericFileProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Utils/LanguageManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Utils/NotificationsHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Utils/NotificationsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Utils/StatefulRecyclerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Utils/TimeStampFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/Utils/UtilsDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/ui/dashboard/DashboardFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/ui/dashboard/DashboardViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/ui/home/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/ui/home/HomeViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/ui/notifications/NotificationsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/devahmed/techx/onlineshop/ui/notifications/NotificationsViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/products_image_fade_scale_animation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_camera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_gallery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_manage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_send.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/images_placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/search_bar_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/images_placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/add_post_edittexts_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/add_to_cart_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/balck_background_effect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cart_go_to_shopping_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cart_submit_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/clicked_searchbar_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/emptycart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/exite_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fox_mart_logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gallery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add_circle_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add_green_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add_location_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add_shopping_cart_add_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add_shopping_cart_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_location_on_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_bills_turned_in_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_block_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_block_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_block_grey_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_call_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_call_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_cancel_orange_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_contact_phone_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_create_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_delete_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_delete_forever_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_delivered_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_delivered_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_delivering_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_delivering_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_discover_basket_orange_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_done_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_file_download_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_flag_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_info_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_inprogress_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_inprogress_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_local_phone_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_location_on_orange_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_mode_edit_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_navigate_next_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_orders_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_person_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_remove_circle_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_remove_green_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_search_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_search_oragne_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_settings_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_share_blue_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_shopping_cart_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_shopping_cart_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_warning_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/image_background_effect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/images_placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/location_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/login_background_image.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/loginpage_forword_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/order_control_row_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/points_circle_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/progressbar_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/searchbar_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/skip_btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/splash_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/user_image_placeholder.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/myfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/account_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_how_did_you_hear_about_us.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_location_at_first_time.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/add_dialog_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/add_to_cart_pop_up_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/admin_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/bill_image_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/bill_row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/bills_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/branches_list_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/cart_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/contact_us_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/delivery_cost_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_add_branch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_extite_app.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_text_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_user_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_product.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home_classic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_show_products.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_sign_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/full_image_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/full_screen_bill_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/how_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/login_register_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/min_charge_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/on_off_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/order_details_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/orders_control_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/orders_list_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/push_notifications_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_branch_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_cart_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_delivery_cost.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_how.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_on_off.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_order.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_order_control.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_ordered_product.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_product.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_sliderview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_subcategory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_subcategory_temp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_user_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/search_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/settings_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/subcategories_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/users_control_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer_admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/orders_alert_sound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-ar/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawables.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/provider_paths.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/devahmed/techx/onlineshop/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foxmart-3f4f0-export.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foxmart.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foxmartappV10-f1f36-export.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification function/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification function/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification function/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification function/functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification function/functions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification function/functions/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification function/functions/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/private_key.pepk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/techXdEMO.aab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/techXdemo.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/techxapp-f1f36-exportV2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/techxapp-f1f36-exportر3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.jks" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/foxmart.jks" />
+    <option name="KEY_ALIAS" value="Key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hSuNgOwz7vSDItUxv5dncH9ZjX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="OnlinePharmacy.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_28_x86" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-05T16:26:37.413Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="debug&#10;release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/menu" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="OnlinePharmacy.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39b854b8-96b6-4bbe-a671-69cfd7e84a62" name="Default Changelist" comment="" />
+      <created>1600016775323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600016775323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="e commerce application" />
+    <option name="LAST_COMMIT_MESSAGE" value="e commerce application" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="159" width="424" height="491" key="FileChooserDialogImpl" timestamp="1608887184743">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="461" y="159" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1608887184743" />
+    <state width="1248" height="458" key="GridCell.Tab.0.bottom" timestamp="1611340894993">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1234" height="172" key="GridCell.Tab.0.bottom/0.27.1280.741@0.27.1280.741" timestamp="1611171030686" />
+    <state width="1248" height="458" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1611340894993" />
+    <state width="1248" height="458" key="GridCell.Tab.0.center" timestamp="1611340894993">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1234" height="172" key="GridCell.Tab.0.center/0.27.1280.741@0.27.1280.741" timestamp="1611171030686" />
+    <state width="1248" height="458" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1611340894993" />
+    <state width="1248" height="458" key="GridCell.Tab.0.left" timestamp="1611340894992">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1234" height="172" key="GridCell.Tab.0.left/0.27.1280.741@0.27.1280.741" timestamp="1611171030685" />
+    <state width="1248" height="458" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1611340894992" />
+    <state width="1248" height="458" key="GridCell.Tab.0.right" timestamp="1611340894993">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1234" height="172" key="GridCell.Tab.0.right/0.27.1280.741@0.27.1280.741" timestamp="1611171030686" />
+    <state width="1248" height="458" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1611340894993" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1611337824352">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1611337824352" />
+    <state x="455" y="177" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1609263167050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="455" y="177" width="446" height="447" key="chooseDestDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1609263167050" />
+  </component>
+</project>

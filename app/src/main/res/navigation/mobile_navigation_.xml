@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.devahmed.techx.onlineshop.Screens.Home.HomeFragment"
+        android:label="@string/app_name">
+        <action
+            android:id="@+id/action_nav_home_to_cartFragment"
+            app:destination="@id/cartFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_beauty"
+            app:destination="@id/nav_products" />
+        <action
+            android:id="@+id/action_nav_home_to_searchFragment"
+            app:destination="@id/searchFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_accountFragment"
+            app:destination="@id/accountFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_products"
+        android:name="com.devahmed.techx.onlineshop.Screens.ProductsShow.ProducstShowFragment"
+        android:label="@string/Products"
+        tools:layout="@layout/fragment_show_products">
+        <argument
+            android:name="category"
+            android:defaultValue="sssss"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_nav_beauty_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_add_item"
+        android:name="com.devahmed.techx.onlineshop.Screens.AddProducts.AddProductActivity"
+        android:label="@string/cart"
+        tools:layout="@layout/fragment_add_product" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.Search.SearchFragment"
+        android:label="@string/Search" >
+        <action
+            android:id="@+id/action_searchFragment_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/adminFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.AdminFragment"
+        android:label="Admin Panel" >
+        <action
+            android:id="@+id/action_adminFragment_to_onOffFragment"
+            app:destination="@id/onOffFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.Cart.CartFragment"
+        android:label="@string/cart" >
+        <action
+            android:id="@+id/action_cartFragment_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/accountFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.UserAccount.AccountFragment"
+        android:label="Your Info">
+        <action
+            android:id="@+id/action_accountFragment_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/orderDetailsFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.Orders.OrdersDetails.OrderDetailsFragment"
+        android:label="Order Details" >
+        <action
+            android:id="@+id/action_orderDetailsFragment_to_nav_home"
+            app:destination="@id/nav_home"
+            app:popUpTo="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/ordersListFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.Orders.MyOrdersList.OrdersListFragment"
+        android:label="Your Orders" />
+    <fragment
+        android:id="@+id/usersControlFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.UsersControl.UsersControlFragment"
+        android:label="Users" />
+    <fragment
+        android:id="@+id/branchesControlFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.BranchesControl.BranchesControlFragment"
+        android:label="Branches" />
+    <fragment
+        android:id="@+id/ordersControlFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.OrdersControl.OrdersControlFragment"
+        android:label="Orders Control" />
+    <fragment
+        android:id="@+id/billsFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.BillsControl.BillsFragment"
+        android:label="Bills" />
+    <fragment
+        android:id="@+id/fullScreenBillFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.BillsControl.FullScreenBillFragment.FullScreenBillFragment"
+        android:label="FullScreenBillFragment" />
+    <fragment
+        android:id="@+id/pushNotificationsFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.NotificationsControl.PushNotificationsFragment"
+        android:label="PushNotificationsFragment" />
+    <fragment
+        android:id="@+id/deliverCostFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.DeliverCost.DeliverCostFragment"
+        android:label="DeliverCostFragment" />
+    <fragment
+        android:id="@+id/minChargeFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.MinChargeControl.MinChargeFragment"
+        android:label="MinChargeFragment" />
+    <fragment
+        android:id="@+id/contactUsFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.ContactUs.ContactUsFragment"
+        android:label="@string/contact_us" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.Settings.SettingsFragment"
+        android:label="SettingsFragment" />
+    <fragment
+        android:id="@+id/howFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.HowDidYouFindUsControl.HowFragment"
+        android:label="HowFragment" />
+    <fragment
+        android:id="@+id/onOffFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.AdminDashboard.ON_OFF.OnOffFragment"
+        android:label="OnOffFragment" >
+        <action
+            android:id="@+id/action_onOffFragment_to_adminFragment"
+            app:destination="@id/adminFragment" />
+    </fragment>
+    <activity
+        android:id="@+id/subCategoriesFragment"
+        android:name="com.devahmed.techx.onlineshop.Screens.SubCategories.SubCategoriesFragment"
+        android:label="SubCategoriesFragment" />
+
+
+</navigation>

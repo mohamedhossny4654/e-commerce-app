@@ -1,0 +1,111 @@
+<resources>
+    <string name="admin">false</string>
+    <string name="app_name"> \Fox Mart \t</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fox Mart</string>
+    <string name="nav_header_subtitle">libgdxengine@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="Products">Products</string>
+
+    <string name="action_cart">Cart</string>
+    <string name="Store">Store</string>
+    <string name="Search">Search</string>
+    <string name="Orders">Orders</string>
+    <string name="cart">Cart</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="admin_dashboard">Admin Panel</string>
+    <string-array name="categories">
+        <item>Beauty</item>
+        <item>Wellness</item>
+        <item>Diabetes</item>
+        <item>Personal Care</item>
+        <item>Mother and Baby</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">notifications</string>
+    <!--                                                                -->
+    <string name="enter_the_code">Enter The Code</string>
+    <string name="we_sent_code">We sent a verification code to your number</string>
+    <string name="didnt_recieve_code">Didn\'t receive code</string>
+    <string name="code">code</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="signup_to_continue">Sign-up to continue</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="we_nee_your_location">We need to know your location first</string>
+    <string name="get_location">Get Location</string>
+    <string name="total">Total</string>
+    <string name="empty_cart">Your Cart is Empty</string>
+    <string name="checkout">Checkout</string>
+    <string name="delivery_cost">Delivery Cost</string>
+    <string name="go_to_shopping">Go to shopping</string>
+    <string name="_120_n_points">Points</string>
+    <string name="earn_points_and_get_discounts">Earn points and get Discounts</string>
+    <string name="your_info">Your info</string>
+    <string name="phone_number">Phone number</string>
+    <string name="your_name">Your Name</string>
+    <string name="name">Name</string>
+    <string name="your_address">Your Address</string>
+    <string name="street_number">Street Number</string>
+    <string name="street_name">Street name</string>
+    <string name="building_number">Building number</string>
+    <string name="nearest_landmark">Nearest Landmark</string>
+    <string name="unique_sign">unique sign</string>
+    <string name="help_us_find_you_with_gps">Help us find you with GPS</string>
+    <string name="use_gps_location">Use GPS location</string>
+    <string name="apply">Apply</string>
+    <string name="logout">Logout</string>
+    <string name="confirm">Confirm\t</string>
+    <string name="language">Language</string>
+    <string name="thank_you">Thank you</string>
+    <string name="your_order_is_in_progress">Your order is in progress</string>
+    <string name="order_in_progress">Order in Progress</string>
+    <string name="your_order">Your Order</string>
+    <string name="items_count">Items count</string>
+    <string name="items_price">Items price</string>
+    <string name="total_price">Total price</string>
+    <string name="area">Area</string>
+    <string name="inProgress">In Progress</string>
+    <string name="delivering">Delivering</string>
+    <string name="done" />
+    <string name="users">Users</string>
+    <string name="branches">Branches</string>
+    <string name="bills">Bills</string>
+    <string name="notifications">Notifications</string>
+    <string name="min_charge">Min Charge</string>
+    <string name="items_finished">Sorry , we have no more !</string>
+    <string name="categories">Categories</string>
+    <string name="points">Points</string>
+    <string name="floor">Floor</string>
+    <string name="flatNo">Flat Number</string>
+    <string name="time_alert">Time must be more than two hours from now</string>
+    <string name="by_pressing_submit_you_agree_to">By pressing submit you agree to</string>
+    <string name="our">our</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="how_did_you_find_us">How did you hear about us</string>
+    <string name="not_available_product">This product is not available now</string>
+    <string name="add">add</string>
+    <string name="sold_out">Sold out</string>
+    <string name="edit_order">Edit Order</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="order_at">Order At</string>
+    <string name="tnow">\tNow</string>
+    <string name="tlater">\tLater</string>
+    <string name="exit">exit</string>
+    <string name="rate">rate</string>
+    <string name="share_app">share app</string>
+    <string name="ONOFF">ON/OFF</string>
+    <string name="sorry_closed_now">Sorry we are closed now , your order will be delivered at</string>
+    <string name="Added">Added</string>
+    <string name="UBlocked">Sorry You are blocked from this app</string>
+    <string name="sorry_min_charge_is">\"Sorry ! minimum charge is \"</string>
+    <string name="add_to_cart">add_to_cart</string>
+    <string name="time_alert2">Can\'t order now , please try again later</string>
+</resources>

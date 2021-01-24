@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f45906</color>
+    <color name="colorPrimaryDark">#f45906</color>
+    <color name="colorAccent">#005792</color>
+    <color name="drawerTextColor">#404b69</color>
+    <color name="otherColor">#ECF4FA</color>
+    <color name="green">#03A500</color>
+    <color name="lightGreen">#50d890</color>
+    <color name="grey">#1F000000</color>
+
+    <color name="font_color">#8D8D8D</color>
+</resources>
